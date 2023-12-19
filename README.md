@@ -3,14 +3,18 @@
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
-### Step 1: 
-### Step 2: 
+### Step 1:
+start the program 
+### Step 2:
+get input from the user
 ### Step 3: 
 Substitute the values in the distance formula  ![formula]![Alt text](formulae.png)
 
 ### Step 4:
+print the document of distance between two points
 
 ### Step 5: 
+End the program
 ### PROGRAM:
   ```
   #Program to find the distance between two points.
